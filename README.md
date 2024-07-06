@@ -2,5 +2,5 @@
 - 👀 I’m interested in learning new stuff. Currently, I'm mostly working on data science related topics. 
 - 🌱 I’m currently learning about gaussian process regression to model stock market data.
 - 💞️ I’m looking to collaborate on data science related topics (currently)
-- 📫 How to reach me: email
+- 📫 How to reach me: LinkedIn messenger
 - ⚡ Fun fact: I'm secretly in love with the Rust borrow checker
